@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/Youssefouah" alt="Github" title="Github"><img width="32px" src="./img/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#" alt="Skype" title="live:.cid.d88bf28aed4708e4"><img width="32px" src="./img/skype.png"/></a>
+  <a href="#" alt="Skype" title="live:.cid.ca2b9b5aa8f4701d"><img width="32px" src="./img/skype.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="" alt="Slack" title="madtiger0109@gmail.com"><img width="32px" src="./img/slack.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -30,16 +30,12 @@
 </p>
 
 <details open>
-  <summary><h2>✨ My Status</h2></summary>
+  <summary><h2>✨ This is ME👨‍🎓</h2></summary>
   
-  - 🔭 I’m currently working on React project with AI.
-  - 🌱 I’m currently learning Web3.
-  - 👯 I’m looking to collaborate on open-source projects.
-  - 🤔 I’m looking for help with web scrapping.
-  - 💬 Ask me about React(reduxjs/toolkit, MUI) & ChatGPT.
-  - 📫 How to reach me: madtiger0109@gmail.com
-  - 😄 Pronouns: He/Him
-  - ⚡ Fun fact: In my free time, I play the piano which makes my coding style more flexible.
+🎀I'm a tech enthusiast who loves to use technology to solve real-world business problems. I mean, let's be real, not everyone who types away on a keyboard can call themselves a developer, right?
+I also believe that having a great idea doesn't necessarily mean you have a great business idea. You gotta be able to make some moolah out of it! That's where I come in. I'm one of those folks who can turn a brilliant idea into a profitable business venture.🎀
+
+So if you're looking for someone who can bring your tech dreams to life and help you make some serious cash while doing it, then look no further!😀
 </details>
 
 <details open> 
