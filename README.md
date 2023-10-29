@@ -44,9 +44,9 @@ So if you're looking for someone who can bring your tech dreams to life and help
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Youssefouah/codeGenericBotBackend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=codeGenericBotBackend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="genie-api"></a>
-    <a href="https://github.com/Youssefouah/codeGenericBotFrontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=codeGenericBotFrontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codegenie-react"></a>
-    <a href="https://github.com/Youssefouah/video-marketing-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=video-marketing-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="video-marketing-backend"></a>
+    <a href="https://github.com/Youssefouah/codeGenericBotBackend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=codeGenericBotBackend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codeGenericBotBackend"></a>
+    <a href="https://github.com/Youssefouah/codeGenericBotFrontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=codeGenericBotFrontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codeGenericBotFrontend"></a>
+    <a href="https://github.com/Youssefouah/MusicBot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=MusicBot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="MusicBot"></a>
   </p>
 
 <a href="https://github.com/Youssefouah?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
