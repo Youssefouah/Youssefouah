@@ -44,8 +44,8 @@ So if you're looking for someone who can bring your tech dreams to life and help
   <summary><h2>📘 My Latest Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Youssefouah/genie-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=codeGenericBotBackend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="genie-api"></a>
-    <a href="https://github.com/Youssefouah/codeGenericBotFrontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=codegenie-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codegenie-react"></a>
+    <a href="https://github.com/Youssefouah/codeGenericBotBackend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=codeGenericBotBackend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="genie-api"></a>
+    <a href="https://github.com/Youssefouah/codeGenericBotFrontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=codeGenericBotFrontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="codegenie-react"></a>
     <a href="https://github.com/Youssefouah/video-marketing-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Youssefouah&repo=video-marketing-backend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=false" alt="video-marketing-backend"></a>
   </p>
 
